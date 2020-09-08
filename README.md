@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Clint.
-I'm a Javascript developer exploring the next great things to apply to my future projects.
+I'm a Javascript developer exploring goodies to use on my future projects.
 
 Skills: Vue, Angular, Typescript, Nestjs, React
 
